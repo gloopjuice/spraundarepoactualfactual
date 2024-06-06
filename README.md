@@ -1,5 +1,7 @@
 # spraundarepoactualfactual
-Spraudnis veidots ar juce frameworku
+Spraudnis veidots ar juce frameworku c++
+
+ja jūs izmantojat kaut kādu koda checkeru, izmetīs sakritību ar 99% no darbiem, kas izmanto juce, jo daudz kam izmanto templatus, kas ir visiem darbiem
 īsumā:
 
 **PluginEditor.cpp**
