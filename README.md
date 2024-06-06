@@ -2,19 +2,19 @@
 Spraudnis veidots ar juce frameworku
 īsumā:
 
-PluginEditor.cpp
+**PluginEditor.cpp**
 
 GUI elementi
 
-PluginEditor.h
+**PluginEditor.h**
 
 Gui elementi un komponenti
  
-PluginProcessor.cpp
+**PluginProcessor.cpp**
 
 main procesēšanas kods
 
  
-PluginProcessor.h
+**PluginProcessor.h**
 
 dekladē audio apstrādes klasi, definējot audio apstrādes funkciju un parametru struktūru un saskarni.
