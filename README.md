@@ -18,3 +18,6 @@ main procesēšanas kods
 **PluginProcessor.h**
 
 dekladē audio apstrādes klasi, definējot audio apstrādes funkciju un parametru struktūru un saskarni.
+
+
+https://github.com/gloopjuice/baldinsfinal - īstais darbs
